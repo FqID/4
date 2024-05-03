@@ -13,7 +13,7 @@
 <img src="https://quickchart.io/qr?text=https://github.com/19920513/www/blob/master/README.md?t%231&size=256" title="分享本平台"></img><br>
 本平台二维码
 </details>
-
+<a target="_blank" href="https://github.com/sglfree/freesky"><img src="https://raw.githubusercontent.com/19920513/www/master/t/lh600.jpg"></a><br>
 如果打不开，隔一会儿再刷新一下。
 
 <br>
@@ -25,26 +25,6 @@
 </details>
 </details>
 </details>
-</details>
-
-<img src="https://raw.githubusercontent.com/19920513/www/master/t/lh600.jpg"><br>
-<a name="8" id="8" target="_blank"></a> <span id="8"></span>
-<h1><p><strong>免费翻墙软件下载</strong></p></h1>
-绿色、安全、免费，帮您破除网络封禁，一键上外网。<br>
-
-<p><details><summary><a href="https://gitlab.com/shenzhouzhengdao/w/raw/master/szzd/szmj.apk">神州明见&nbsp;（安卓版）</a>&nbsp;&nbsp;&nbsp;&nbsp; :arrow_double_down: </p></summary>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/shenzhouzhengdao/w/raw/master/szzd/szmjweb.zip">神州明见（网页版）</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/shenzhouzhengdao/w/raw/master/szzd/szmjtv.apk">神州明见（电视机顶盒版）</a></p>
-</details>
-<p><details><summary><a href="https://gitlab.com/shenzhouzhengdao/w/raw/master/szzd/fgp.zip">自由门&thinsp;&nbsp;&nbsp;&nbsp;&nbsp;（电脑版）</a>&nbsp;&nbsp;&nbsp;&nbsp; :arrow_double_down: </p></summary>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/shenzhouzhengdao/w/raw/master/szzd/fgma.apk">自由门&thinsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（安卓版）</a></p>
-</details>
-<p><details><summary><a href="https://gitlab.com/shenzhouzhengdao/w/raw/master/szzd/fgvpn.apk">自由门VPN(安卓版）</a>&nbsp;&nbsp;&nbsp;&nbsp; :arrow_double_down: </p></summary>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/shenzhouzhengdao/w/raw/master/szzd/iPPOTV.zip">爱博电视&nbsp;&nbsp;&nbsp;（电脑版）</a></p>
-</details>
-<p><details><summary><a href="https://gitlab.com/shenzhouzhengdao/w/raw/master/szzd/u.zip">无界浏览&nbsp;（电脑版）</a>&nbsp;&nbsp;&nbsp;&nbsp; :arrow_double_down: </p></summary>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/shenzhouzhengdao/w/raw/master/szzd/um.apk">无界浏览（安卓版）</a></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/shenzhouzhengdao/w/raw/master/szzd/u.apk">无界VPN（安卓版）</a></p>
 </details>
 
 <img src="https://raw.githubusercontent.com/19920513/www/master/t/lh600.jpg"><br>
