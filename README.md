@@ -24,7 +24,8 @@
 <br>
 <h1><p><strong>国内看不到的新闻同步</strong></p></h1>
 
-<br><p><a target="_blank" href="https://github.com/19920513/djy/blob/master/gb/nf1351518.md#1">大纪元动态首页</a></p>
+<br>
+<p><a target="_blank" href="https://github.com/19920513/djy/blob/master/gb/nf1351518.md#1">大纪元动态首页</a></p>
 <p><a target="_blank" href="https://github.com/19920513/ntdtv/blob/master/gb/prog204.md#1">新唐人动态首页</a></p>
 </details>
 </details>
@@ -37,6 +38,7 @@
 <img src="https://raw.githubusercontent.com/19920513/www/master/t/lh600.jpg"><br>
 
 <h1><strong>其它的真相媒体</strong></h1>
+<br>
 <details><summary><a target="_blank" href="http://dreoyglkqng4c.cloudfront.net/u4uHV?xptmi">动态网</a>&nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="http://dreoyglkqng4c.cloudfront.net/GnoF?uklxi">明慧网</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :arrow_double_down: </p></summary>
 
 </details>
