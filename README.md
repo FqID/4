@@ -14,10 +14,15 @@
 本平台二维码
 </details>
 <a target="_blank" href="https://github.com/sglfree/freesky"><img src="https://raw.githubusercontent.com/19920513/www/master/t/lh600.jpg"></a><br>
-如果打不开，隔一会儿再刷新一下。
+
+
+
+
+
+  
 
 <br>
-
+<h1><p><strong>国内看不到的新闻同步</strong></p></h1>
 
 <br><p><a target="_blank" href="https://github.com/19920513/djy/blob/master/gb/nf1351518.md#1">大纪元动态首页</a></p>
 <p><a target="_blank" href="https://github.com/19920513/ntdtv/blob/master/gb/prog204.md#1">新唐人动态首页</a></p>
