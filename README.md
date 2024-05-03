@@ -27,10 +27,6 @@
 </details>
 </details>
 
-<img src="https://raw.githubusercontent.com/19920513/www/master/t/lh600.jpg"><br>
-
-</details></details>
-<p><details><summary><a target="_blank" href="https://github.com/19920513/ntdtv/blob/master/gb/prog204.md#1">新唐人动态首页</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :arrow_double_down: </p></summary>
 
 </details>
 <img src="https://raw.githubusercontent.com/19920513/www/master/t/lh600.jpg"><br>
