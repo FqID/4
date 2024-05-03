@@ -7,15 +7,6 @@
 <a name="6" id="6" target="_blank"></a> <span id="6"></span>
 <a name="7" id="7" target="_blank"></a> <span id="7"></span>
 <a id="user-content-1" href="#1">
-<div align="center">
-<a target="_blank" href="https://github.com/19920513/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/19920513/www/master/t/www.jpg"></a><br>
-<p><details><summary>本平台短网址:&nbsp;&nbsp;<a href="https://tinyurl.com/h5555">tinyurl.com/h5555</a>&nbsp;&nbsp;持续收看请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;.... :arrow_double_down: </summary></p>
-<img src="https://quickchart.io/qr?text=https://github.com/19920513/www/blob/master/README.md?t%231&size=256" title="分享本平台"></img><br>
-本平台二维码
-</details>
-<a target="_blank" href="https://github.com/sglfree/freesky"><img src="https://raw.githubusercontent.com/19920513/www/master/t/lh600.jpg"></a><br>
-
-
 
 
 
