@@ -18,6 +18,43 @@
 <br>
 <a target="_blank" href="https://gitlab.com/shenzhouzhengdao/w/"><img src="https://raw.githubusercontent.com/19920513/www/master/t/lh600.jpg"></a><br>
 <br>
+
+
+
+
+
+
+
+
+
+
+<h1><p><strong>国内看不到的新闻同步</strong></p></h1>
+<p><details><summary><a target="_blank" href="https://github.com/19920513/djy/blob/master/gb/nf1351518.md#1">大纪元动态首页</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :arrow_double_down: </p></summary>
+<p><a target="_blank" href="https://github.com/19920513/djy/blob/master/gb/nscrw413.md#1">新闻排行</a></p>
+<p><a target="_blank" href="https://github.com/19920513/djy/blob/master/gb/nf4514.md#1">头条集锦</a></p>
+
+
+
+
+<p><details><summary><a target="_blank" href="https://github.com/19920513/ntdtv/blob/master/gb/prog204.md#1">新唐人动态首页</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :arrow_double_down: </p></summary>
+<p><a target="_blank" href="https://github.com/19920513/ntdtv/blob/master/gb/headline-news_1.md#1">头条要闻</a></p>
+<p><a target="_blank" href="https://github.com/19920513/ntdtv/blob/master/gb/prog208_1.md#1">财经新闻</a></p>
+<p><a target="_blank" href="https://github.com/19920513/ntdtv/blob/master/gb/prog209_1.md#1">科教新闻</a></p>
+<p><a target="_blank" href="https://github.com/19920513/ntdtv/blob/master/gb/prog210_1.md#1">娱乐新闻</a></p>
+<p><a target="_blank" href="https://github.com/19920513/ntdtv/blob/master/gb/prog211_1.md#1">体育新闻</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h1><p><strong>新闻热点 海外报道</strong></p></h1>
 <p><a href="https://github.com/19920513/ntdtv/blob/master/gb/2024/05/01/a103876426.md#1" target=_blank><img width="330" height="30" src="https://img.shields.io/badge/江西特斯拉空中翻滚车主安然无恙 网友对比问界>-009fcc?logoWidth=1" title="江西特斯拉空中翻滚车主安然无恙　网友对比>>" alt="江西特斯拉空中翻滚车主安然无恙　网友对比>>"></a></p>
 <p><a href="https://github.com/19920513/ntdtv/blob/master/gb/2024/05/01/a103876560.md#1" target=_blank><img width="330" height="30" src="https://img.shields.io/badge/经济遇挑战 环境严峻 中共政治局会议泄实情 >-009fcc?logoWidth=1" title="经济遇挑战　环境严峻　中共政治局会议泄实>>" alt="经济遇挑战　环境严峻　中共政治局会议泄实>>"></a></p>
