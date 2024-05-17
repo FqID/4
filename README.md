@@ -1,3 +1,23 @@
+<style type="text/css"> #newslist{  background:#f7f7f7;border:1px solid silver;padding:1px;height:20px;line-height:20px;width:600px; } #contain{  font-size:12px;overflow:hidden;list-style:none;width:300px;height:20px;margin:0px;padding:0; } #contain li{  height:20px;line-height:20px;white-space:nowrap;overflow:hidden; }</style> </HEAD>
+
+ <BODY> <div id="newslist">  <ul id="contain">   
+<li><a href="http://ho1.weebly.com">翻墙工具</a></li>   
+<li><a href="http://taobao21.weebly.com">淘宝网新网址</a></li>   
+<li><a href="http://cl1.weebly.com">下载穿墙工具</a></li>   
+<li><a href="http://kt11.weebly.com">翻墙网</a></li>   
+<li><a href="http://br11.weebly.com">如何翻墙</a></li>  
+</ul> </div><SCRIPT LANGUAGE="JavaScript">function xx(){var container=document.getElementById("contain");container.appendChild(container.firstChild);}setInterval("xx()",3000);</SCRIPT> </BODY></HTML>
+
+
+
+
+
+
+
+
+
+
+
 <a id="user-content-1" class="anchor" aria-hidden="true" href="#1">
 <a name="1" id="1" target="_blank"></a> <span id="1"></span>
 <a name="2" id="2" target="_blank"></a> <span id="2"></span>
