@@ -1,14 +1,48 @@
-<style type="text/css"> #newslist{  background:#f7f7f7;border:1px solid silver;padding:1px;height:20px;line-height:20px;width:600px; } #contain{  font-size:12px;overflow:hidden;list-style:none;width:300px;height:20px;margin:0px;padding:0; } #contain li{  height:20px;line-height:20px;white-space:nowrap;overflow:hidden; }</style> </HEAD>
+</head>
 
- <BODY> <div id="newslist">  <ul id="contain">   
-<li><a href="http://ho1.weebly.com">翻墙工具</a></li>   
-<li><a href="http://taobao21.weebly.com">淘宝网新网址</a></li>   
-<li><a href="http://cl1.weebly.com">下载穿墙工具</a></li>   
-<li><a href="http://kt11.weebly.com">翻墙网</a></li>   
-<li><a href="http://br11.weebly.com">如何翻墙</a></li>  
-</ul> </div><SCRIPT LANGUAGE="JavaScript">function xx(){var container=document.getElementById("contain");container.appendChild(container.firstChild);}setInterval("xx()",3000);</SCRIPT> </BODY></HTML>
+<body> 
 
 
+<marquee style="color:#551A8B;font-size:12px;line-height:17px;" direction="up" height="46" 
+
+scrollamount="1" scrolldelay="100" onMouseOver="this.scrollDelay=500" 
+
+onMouseOut="this.scrollDelay=1" width="380"><font color=green size=3>背 景 资 料：</font>突 破 网 络 审 查 或 <a href="http://wt1.weebly.com">突 破 网 络 封 锁</a>，  有 人 简 称“破 网”，俗 称“翻 墙”，是 指 针 对 互 联 网 审 查 封 锁 的 限 制，绕 过 相 应 的 I P 封 锁、内 容 过 滤、域 名 劫 持 等，实 现 对 网 络 内 容 的 访 问。相 应 的 软 件有 人 称 为“破 网 软 件”、也 有 叫 作 “<a href="http://ny1.weebly.com">翻 墙 工 具</a>” 。</td></marquee> 
+
+
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+
+</head>
+
+<body> 
+
+
+<marquee style="color:#414141;font-size:12px;line-height:17px;" direction="up" height="90" scrollamount="1" scrolldelay="100" onMouseOver="this.scrollDelay=500" onMouseOut="this.scrollDelay=1" width="100">欢迎光临网页特效代码，本站收集整理了大量的网页特效，版权归原版权人所有，切勿用于商业用途，欢迎的你的光临，若有什么问题请跟我联系，也可以到到本站留言区留言。</td></marquee> 
+
+
+</body>
+
+</html>
 
 
 
