@@ -1,48 +1,55 @@
-</head>
+<script language="JavaScript1.2">
 
-<body> 
+/*
+Ticker Tape script- 
+?Dynamic Drive (www.dynamicdrive.com)
+For full source code, installation instructions,
+100's more DHTML scripts, and Terms Of
+Use, visit dynamicdrive.com
+*/
+//configure tickercontents[] to set the messges you wish be displayed (HTML codes accepted)//设置内容显示
+var tickercontents=new Array()
+tickercontents[0]='See what\'s New at Dynamic Drive. <a href="test/link1.htm">[Read more]</a>'
+tickercontents[1]='Browse the most popular scripts on Dynamic Drive <a href="test/link1.htm">[Read more]</a>'
+tickercontents[2]='Link back to Dynamic Drive! <a href="test/link1.htm">[Read more]</a>'
+
+//configure the below 2 variables to set the width/background color of the ticker//设置颜色与长度
+var tickerwidth='65%'
+var tickerbgcolor='lightblue'
+
+//configure the below variable to determine the delay between ticking of messages (in miliseconds//设置延迟时间
+var tickdelay=3000
+
+////Do not edit pass this line////////////////
+
+var currentmessage=0
+
+function changetickercontent(){
+if (document.layers){
+document.tickernsmain.document.tickernssub.document.write(tickercontents[currentmessage])
+document.tickernsmain.document.tickernssub.document.close()
+}
+else if (document.all)
+tickerie.innerHTML=tickercontents[currentmessage]
+
+if (currentmessage==tickercontents.length-1) currentmessage=0
+else currentmessage++
+setTimeout("changetickercontent()",tickdelay)
+}
+
+function start_ticking(){
+if (document.layers)
+document.tickernsmain.visibility="show"
+changetickercontent()
+}
+
+if (document.all)
+document.write('<div id="tickerie" style="width:'+tickerwidth+'; background-color:'+tickerbgcolor+'"></div>')
+window.onload=start_ticking
+</script>
 
 
-<marquee style="color:#551A8B;font-size:12px;line-height:17px;" direction="up" height="46" 
-
-scrollamount="1" scrolldelay="100" onMouseOver="this.scrollDelay=500" 
-
-onMouseOut="this.scrollDelay=1" width="380"><font color=green size=3>背 景 资 料：</font>突 破 网 络 审 查 或 <a href="http://wt1.weebly.com">突 破 网 络 封 锁</a>，  有 人 简 称“破 网”，俗 称“翻 墙”，是 指 针 对 互 联 网 审 查 封 锁 的 限 制，绕 过 相 应 的 I P 封 锁、内 容 过 滤、域 名 劫 持 等，实 现 对 网 络 内 容 的 访 问。相 应 的 软 件有 人 称 为“破 网 软 件”、也 有 叫 作 “<a href="http://ny1.weebly.com">翻 墙 工 具</a>” 。</td></marquee> 
-
-
-</body>
-
-</html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<html>
-
-</head>
-
-<body> 
-
-
-<marquee style="color:#414141;font-size:12px;line-height:17px;" direction="up" height="90" scrollamount="1" scrolldelay="100" onMouseOver="this.scrollDelay=500" onMouseOut="this.scrollDelay=1" width="100">欢迎光临网页特效代码，本站收集整理了大量的网页特效，版权归原版权人所有，切勿用于商业用途，欢迎的你的光临，若有什么问题请跟我联系，也可以到到本站留言区留言。</td></marquee> 
-
-
-</body>
-
-</html>
+<ilayer id="tickernsmain" width= && #123;tickerwidth}; bgColor= && #123;tickerbgcolor}; visibility=hide><layer id="tickernssub" width= && #123;tickerwidth}; left=0 top=0></layer></ilayer>
 
 
 
